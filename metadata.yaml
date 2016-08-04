@@ -1,0 +1,29 @@
+_repo: The-American-Spirit-in-Literature--A-Chronicle-of-Great-Interpreters_3410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perry, Bliss
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1188'
+    url: http://www.gutenberg.org/2009/agents/1188
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Perry
+description: Includes chapters on the Knickerbocker group and the transcendentalists.
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- History and criticism'
+- !lcc 'E151'
+- !lcc 'PS'
+- GITenberg
+title: 'The American Spirit in Literature: A Chronicle of Great Interpreters'
+url: http://www.gutenberg.org/ebooks/3410
